@@ -4,6 +4,39 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
+  <color name="border_radius_color_gray_50">#f9fafb</color>
+  <color name="border_radius_color_gray_100">#f3f4f6</color>
+  <color name="border_radius_color_gray_200">#e5e7eb</color>
+  <color name="border_radius_color_gray_300">#d1d5db</color>
+  <color name="border_radius_color_gray_400">#9ca3af</color>
+  <color name="border_radius_color_gray_500">#6b7280</color>
+  <color name="border_radius_color_gray_600">#4b5563</color>
+  <color name="border_radius_color_gray_700">#374151</color>
+  <color name="border_radius_color_gray_800">#1f2937</color>
+  <color name="border_radius_color_gray_900">#111827</color>
+  <color name="border_radius_color_zinc_50">#fafafa</color>
+  <color name="border_radius_color_zinc_100">#f4f4f5</color>
+  <color name="border_radius_color_zinc_200">#e4e4e7</color>
+  <color name="border_radius_color_zinc_300">#d4d4d8</color>
+  <color name="border_radius_color_zinc_400">#a1a1aa</color>
+  <color name="border_radius_color_zinc_500">#71717a</color>
+  <color name="border_radius_color_zinc_600">#52525b</color>
+  <color name="border_radius_color_zinc_700">#3f3f46</color>
+  <color name="border_radius_color_zinc_800">#27272a</color>
+  <color name="border_radius_color_zinc_900">#18181b</color>
+  <color name="border_radius_color_teal_50">#f0fdfa</color>
+  <color name="border_radius_color_teal_100">#ccfbf1</color>
+  <color name="border_radius_color_teal_200">#99f6e4</color>
+  <color name="border_radius_color_teal_300">#5eead4</color>
+  <color name="border_radius_color_teal_400">#2dd4bf</color>
+  <color name="border_radius_color_teal_500">#ffa500</color>
+  <color name="border_radius_color_teal_600">#0d9488</color>
+  <color name="border_radius_color_teal_700">#0f766e</color>
+  <color name="border_radius_color_teal_800">#115e59</color>
+  <color name="border_radius_color_teal_900">#134e4a</color>
+  <color name="border_radius_color_neutrals_black">#000000</color>
+  <color name="border_radius_color_neutrals_white">#ffffff</color>
+  <color name="border_radius_color_neutrals_transparent">#ffffff03</color>
   <color name="color_gray_50">#f9fafb</color>
   <color name="color_gray_100">#f3f4f6</color>
   <color name="color_gray_200">#e5e7eb</color>
